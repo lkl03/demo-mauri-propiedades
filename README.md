@@ -1,2 +1,7 @@
-# demo-mauri-propiedades
-Demo web para Mauri Propiedades — diseñada por eterlab.
+# Mauri Propiedades
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
